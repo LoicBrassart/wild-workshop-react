@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <section id="gallery">
-        <Character />
+        <Character name="Lewto"/>
       </section>
     </div>
   );
