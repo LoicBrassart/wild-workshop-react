@@ -8,7 +8,11 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <section id="gallery">
+        <Character name="A'misandra"/>
         <Character name="Lewto"/>
+        <Character name="Nazuna"/>
+        <Character name="Olber"/>
+        <Character name="Zaldor"/>
       </section>
     </div>
   );
